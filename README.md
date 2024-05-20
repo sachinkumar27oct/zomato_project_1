@@ -1,6 +1,8 @@
 # zomato sales data analysis
 Zomato sales data analysis which has data from 2017 to 2020 and helps the decision makers to analyze the business goals.
 Sure, let's break down and tell the story behind the data presented on this Zomato dashboard.
+     <img src="https://github.com/sachinkumar27oct/zomato_project_1/assets/142552594/380ea1c5-bc32-45b2-87ee-2a3352b8a60e" width="800" height="400">
+
 
 ### **Introduction:**
 Zomato, a leading food delivery service, operates in over 150,281 cities worldwide, connecting with 100,000 users who have collectively placed 150,281 orders. The dashboard provides an overview of Zomato’s performance, including sales value, rating counts, and order counts, while also breaking down data by city and year.
