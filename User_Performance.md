@@ -1,8 +1,10 @@
-### Storytelling of the Zomato User Performance Dashboard
+### Zomato User Performance Dashboard
 
 #### Overview
 
 This Zomato User Performance Dashboard provides a comprehensive overview of user activity and engagement metrics. Zomato operates in 150,281 cities worldwide, connecting with 100,000 users and facilitating 150,281 orders. Key metrics include active users, total users, rating count, and order count.
+
+<img src= "https://github.com/sachinkumar27oct/zomato_project_1/assets/142552594/8841b7b5-c2a7-46da-9964-daac3109c246">
 
 #### Key Metrics
 
